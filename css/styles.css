@@ -21,7 +21,7 @@ p{
 /* Sections */
 
 .colored-section{
-    background-color: #ff4c68;
+    background-color: #4E35BE;
     color: #fff;
 }
 
@@ -93,18 +93,18 @@ p{
 }
 
 .feature-img{
-    color: #ef8172;
+    color: #4E35BE;
     margin-bottom: 1rem;
 }
 
 .feature-img:hover{
-    color: #ff4c68;
+    color: #4E35BE;
 }
 
 /* Testimonials Section */
 
 #testimonials{
-    background-color: #ef8172;
+    background-color: #4E35BE;
 }
 
 .testimonial-text{
@@ -121,7 +121,7 @@ p{
 /* Press Section */
 
 #press{
-    background-color: #ef8172 ;
+    background-color: #4E35BE;
     padding-bottom: 3%;
 }
 
@@ -132,25 +132,10 @@ p{
 
 /* Pricing Section */
 
-#pricing{
-    padding: 100px;
-}
-
-.section-heading{
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
-.price-text{
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
-.pricing-column{
-    padding: 3% 2%;
-}
 
 /* Footer */
+
+
 
 #footer{
     background-color: #fff;
